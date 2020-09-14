@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12150" started-at="2020-08-26T17:38:04 CDT" finished-at="2020-08-26T17:38:17 CDT">
+  <suite name="Default suite" duration-ms="7808" started-at="2020-08-28T20:20:20 CDT" finished-at="2020-08-28T20:20:27 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12150" started-at="2020-08-26T17:38:04 CDT" finished-at="2020-08-26T17:38:17 CDT">
-      <class name="Test.Add_categoryTest">
-        <test-method status="PASS" signature="UserShoubAbleToAddCategory()[pri:0, instance:Test.Add_categoryTest@6321e813]" name="UserShoubAbleToAddCategory" duration-ms="12106" started-at="2020-08-26T17:38:04 CDT" finished-at="2020-08-26T17:38:17 CDT">
+    <test name="Default test" duration-ms="7808" started-at="2020-08-28T20:20:20 CDT" finished-at="2020-08-28T20:20:27 CDT">
+      <class name="Test.MonthDropDownTest">
+        <test-method status="PASS" signature="clickDropDown_Button()[pri:0, instance:Test.MonthDropDownTest@6321e813]" name="clickDropDown_Button" duration-ms="7737" started-at="2020-08-28T20:20:20 CDT" finished-at="2020-08-28T20:20:27 CDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- UserShoubAbleToAddCategory -->
-      </class> <!-- Test.Add_categoryTest -->
+        </test-method> <!-- clickDropDown_Button -->
+      </class> <!-- Test.MonthDropDownTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

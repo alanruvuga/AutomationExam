@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test.Add_categoryTest">
+      <class name="Test.Month_DropDown_ButtonTest">
         <methods>
-          <include name="UserShoubAbleToAddCategory"/>
+          <include name="dropDown_Menu"/>
         </methods>
-      </class> <!-- Test.Add_categoryTest -->
+      </class> <!-- Test.Month_DropDown_ButtonTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

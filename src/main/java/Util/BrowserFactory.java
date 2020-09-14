@@ -10,7 +10,7 @@ public class BrowserFactory {
 static WebDriver driver;
 	
 	
-	public static WebDriver  LaunchBrowser() {
+	public static WebDriver init() {
 		
 		System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
 		
